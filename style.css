@@ -1,0 +1,12 @@
+/* Semua elemen span harus memiliki warna teks */
+span {
+    color: red;
+}
+
+/* Semua elemen p harus memiliki warna teks biru */
+span {
+    color: blue;
+}
+
+
+    
